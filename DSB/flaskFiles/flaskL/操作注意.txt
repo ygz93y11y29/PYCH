@@ -1,0 +1,6 @@
+在pycharm中运行的话。
+需要设置以下：
+
+文件→设置→项目：XX中的Project Structure→选中文件夹→点击上方的源码（source）→点击确定即可
+
+非pycharm中运行，注意各个的导入文件的路径。

@@ -1,0 +1,17 @@
+setup.py
+fsScrapySpider/__init__.py
+fsScrapySpider/add_startUrl.py
+fsScrapySpider/dupeFilter.py
+fsScrapySpider/items.py
+fsScrapySpider/middlewares.py
+fsScrapySpider/pipelines.py
+fsScrapySpider/settings.py
+fsScrapySpider/spiders/__init__.py
+fsScrapySpider/spiders/jjkxSpider.py
+fsScrapySpider/spiders/sjdtSpider.py
+fsScrapySpider/spiders/sppySpider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
